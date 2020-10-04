@@ -1,0 +1,16 @@
+export default {
+    black: 'Nunito-Black',
+    blackitalic: 'Nunito-BlackItalic',
+    extrabold: 'Nunito-ExtraBold',
+    extrabolditalic: 'Nunito-ExtraBoldItalic',
+    bold: 'Nunito-Bold',
+    bolditalic: 'Nunito-BoldItalic',
+    semibold: 'Nunito-SemiBold',
+    semibolditalic: 'Nunito-SemiBoldItalic',
+    regular: 'Nunito-Regular',
+    italic: 'Nunito-Italic',
+    light: 'Nunito-Light',
+    lightitalic: 'Nunito-LightItalic',
+    extralight: 'Nunito-ExtraLight',
+    extrallightitalic: 'Nunito-ExtraLightItalic',
+}        
